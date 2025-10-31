@@ -1,0 +1,8 @@
+This project focuses on developing a deep learning-based DDoS detection and mitigation system within a Software-Defined Networking (SDN) environment.
+The system utilizes a Deep Neural Network (DNN) trained on the InSDN dataset to classify incoming network traffic as either normal or malicious. 
+The goal is to create an intelligent and adaptive detection model that can identify attack patterns in real time and assist the SDN controller in dynamically responding to threats.
+By leveraging SDN’s centralized control and programmability, the model enables automated mitigation actions such as blocking malicious IP addresses or rerouting suspicious flows, thus maintaining network stability and performance.
+The proposed framework emphasizes high detection accuracy, low false-positive rates, and real-time decision-making capabilities. 
+It also demonstrates how machine learning can be integrated into SDN controllers to create self-defending network infrastructures.
+The project highlights the effectiveness of DNNs in learning complex network behaviors and provides a foundation for deploying intelligent security systems in modern, software-driven network architectures.
+
